@@ -1,4 +1,4 @@
-
+//Jonathan Samuel Gonzalez.
 #include "Empleados.h"
 
 using namespace std;
