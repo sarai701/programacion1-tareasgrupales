@@ -37,7 +37,6 @@
 		<Unit filename="include/Auditoria.h" />
 		<Unit filename="include/Banco.h" />
 		<Unit filename="include/Cliente.h" />
-		<Unit filename="include/Configuraciones.h" />
 		<Unit filename="include/Contabilidad.h" />
 		<Unit filename="include/Empleados.h" />
 		<Unit filename="include/Proveedores.h" />
@@ -45,7 +44,6 @@
 		<Unit filename="src/Auditoria.cpp" />
 		<Unit filename="src/Banco.cpp" />
 		<Unit filename="src/Cliente.cpp" />
-		<Unit filename="src/Configuraciones.cpp" />
 		<Unit filename="src/Contabilidad.cpp" />
 		<Unit filename="src/Empleados.cpp" />
 		<Unit filename="src/Proveedores.cpp" />

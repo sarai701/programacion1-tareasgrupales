@@ -51,3 +51,48 @@
 1743731108 source:c:\users\deleo\onedrive\documentos\tareas\progra1\programacion1\primer proyecto\menusistemabanco\src\configuraciones.cpp
 	"Configuraciones.h"
 
+1743745757 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\main.cpp
+	"Banco.h"
+
+1743745757 c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\include\banco.h
+	<iostream>
+	<string>
+	"Empleados.h"
+	"Cliente.h"
+	"Proveedores.h"
+	"Contabilidad.h"
+	"Auditoria.h"
+
+1743745757 c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\include\empleados.h
+	<iostream>
+
+1743746110 c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\include\cliente.h
+	<iostream>
+
+1743745962 c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\include\proveedores.h
+	<iostream>
+
+1743745757 c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\include\contabilidad.h
+	<iostream>
+
+1743745757 c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\include\auditoria.h
+	<iostream>
+
+1743745757 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\src\auditoria.cpp
+	"Auditoria.h"
+
+1743745757 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\src\banco.cpp
+	"Banco.h"
+
+1743746125 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\src\cliente.cpp
+	"Cliente.h"
+
+1743745757 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\src\contabilidad.cpp
+	"Contabilidad.h"
+
+1743745757 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\src\empleados.cpp
+	"Empleados.h"
+
+1743745962 source:c:\users\deleo\onedrive\documentos\tareas\progra1\copia grupo para ejemplo\programacion1-tareasgrupales\menusistemabanco\src\proveedores.cpp
+	"Proveedores.h"
+
