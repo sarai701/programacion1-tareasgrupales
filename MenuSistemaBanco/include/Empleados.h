@@ -1,4 +1,4 @@
-//Jonathan Samuel Gonzalez.
+//Jonathan Samuel Gonzalez..
 #ifndef EMPLEADO_H
 #define EMPLEADO_H
 
