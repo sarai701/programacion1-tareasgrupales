@@ -12,3 +12,4 @@ void Proveedor::registrarFactura() {
     system("cls");
 
 }
+
